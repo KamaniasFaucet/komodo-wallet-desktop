@@ -1,0 +1,138 @@
+{
+  "accentColor": "#1E90FF", 
+  "foregroundColor": "#FFFFFF",
+  "foregroundColor2": "#A9CFF7",
+  "foregroundColor3": "#B0E0E6",
+  "backgroundColor": "#001A33",
+  "secondBackgroundColor": "#00264D",
+  "backgroundColorDeep": "#000F26",
+  
+  "busyIndicatorColor": "#1E90FF",
+  
+  "buttonColorDisabled": "#3A4D63",
+  "buttonColorEnabled": "#1E90FF",
+  "buttonColorHovered": "#3CB4FF",
+  "buttonColorPressed": "#1E90FF99",
+  
+  "buttonTextDisabledColor": "#607080",
+  "buttonTextEnabledColor": "#FFFFFF",
+  "buttonTextHoveredColor": "#000000",
+  "buttonTextPressedColor": "#FFFFFF",
+  
+  "buttonSecondaryColorDisabled": "#374960",
+  "buttonSecondaryColorEnabled": "#336699",
+  "buttonSecondaryColorHovered": "#3CB4FF",
+  "buttonSecondaryColorPressed": "#1E90FF99",
+  
+  "buttonCancelColorDisabled": "#2C3D66",
+  "buttonCancelColorEnabled": "#284B6B",
+  "buttonCancelColorHovered": "#3CB4FF",
+  "buttonCancelColorPressed": "#1E90FF99",
+  
+  "gradientButtonStartColor": "#1E90FF",
+  "gradientButtonEndColor": "#4682B4",
+  "gradientButtonDisabledStartColor": "#1E90FF66",
+  "gradientButtonDisabledEndColor": "#4682B466",
+  "gradientButtonHoveredStartColor": "#3CB4FF",
+  "gradientButtonHoveredEndColor": "#5BBFFF",
+  "gradientButtonPressedStartColor": "#1E90FF",
+  "gradientButtonPressedEndColor": "#4682B4",
+  "gradientButtonTextEnabledColor": "#FFFFFF",
+  "gradientButtonTextDisabledColor": "#607080",
+  "gradientButtonTextHoveredColor": "#000000",
+  "gradientButtonTextPressedColor": "#FFFFFF",
+
+  "checkBoxTickColor": "#FFFFFF",
+  "checkBoxGradientStartColor": "#1E90FF",
+  "checkBoxGradientEndColor": "#4682B4",
+
+  "switchGradientStartColor": "#1E90FF",
+  "switchGradientEndColor": "#4682B4",
+  "switchGradientStartColor2": "#000F26",
+  "switchGradientEndColor2": "#001A33",
+  
+  "comboBoxBackgroundColor": "#00264D",
+  "comboBoxArrowsColor": "#FFFFFF",
+  "comboBoxDropdownItemHighlightedColor": "#1E90FF",
+  
+  "modalPageCounterGradientStartColor": "#1E90FF",
+  "modalPageCounterGradientEndColor": "#4682B4",
+  
+  "notifPopupBackgroundColor": "#001A33",
+  "notifPopupTextColor": "#FFFFFF",
+  "notifPopupTimerColor": "#A9CFF7",
+  "notifPopupTimerBackgroundColor": "#A9CFF733",
+  "notifPopupIconStartColor": "#FFFFFF",
+  "notifPopupIconEndColor": "#A9CFF7",
+
+  "scrollBarIndicatorColor": "#A9CFF7",
+  "scrollBarBackgroundColor": "#607080",
+  
+  "tabSelectedColor": "#1E90FF",
+  
+  "textDisabledColor": "#607080",
+  "textSelectionColor": "#1E90FF",
+  "textPlaceholderColor": "#B0E0E6",
+  "textSelectedColor": "#00264D",
+  
+  "textFieldBackgroundColor": "#001A33",
+  "textFieldActiveBackgroundColor": "#00264D",
+  "textFieldPrefixColor": "#1E90FF",
+  "textFieldSuffixColor": "#1E90FF",
+  
+  "tickerBadgeBackgroundColor": "#000F26",
+  
+  "chartTradingLineBackgroundColor": "#000F26",
+  "chartTradingLineColor": "#1E90FF",
+  
+  "innerBackgroundColor": "#000F26",
+  
+  "floatingBackgroundColor": "#000F26",
+  
+  "rangeSliderBackgroundColor": "#1E90FF",
+  "rangeSliderDistanceColor": "#1E90FF33",
+  "rangeSliderIndicatorBackgroundStartColor": "#1E90FF",
+  "rangeSliderIndicatorBackgroundEndColor": "#4682B4",
+  
+  "userIconColorStart": "#1E90FF",
+  "userIconColorEnd": "#4682B433",
+  
+  "sidebarBgColor": "#001A33",
+  "sidebarVersionTextColor": "#1E90FF",
+  "sidebarCursorStartColor": "#1E90FF",
+  "sidebarCursorEndColor": "#001A3300",
+  "sidebarLineTextHovered": "#1E90FF",
+  "sidebarLineTextSelected": "#FFFFFF",
+  
+  "tradeSellModeSelectorBackgroundColorStart": "#8B0000",
+  "tradeSellModeSelectorBackgroundColorEnd": "#B22222",
+  "tradeBuyModeSelectorBackgroundColorStart": "#006400",
+  "tradeBuyModeSelectorBackgroundColorEnd": "#228B22",
+  
+  "inputModifierBackgroundColor": "#1E90FF33",
+  "inputFieldBackgroundColor": "#000F26",
+  
+  "inputFieldBorderColor": "#1E90FF",
+  "inputPlaceholderTextColor": "#A9CFF7",
+  "inputRightIconColor": "#FFFFFF",
+  "inputLeftIconColor": "#FFFFFF",
+  "inputLeftIconBackgroundColor": "#001A33",
+  
+  "listItemOddBackground": "#000F26",
+  "listItemEvenBackground": "#001A33",
+  "listItemHoveredBackground": "#3A4D63",
+  
+  "addressBookTagColors": ["#003BBB", "#0047AB", "#1C3B70", "#336699", "#4A90E2"],
+  
+  "okColor": "#4682B4",
+  "warningColor": "#DC143C",
+  "swapIconColor": "#005FBE",
+  
+  "senderColorStart": "#FF4500",
+  "receiverColorStart": "#6A5ACD",
+  
+  "arrowUpColor": "#FF4500",
+  "arrowDownColor": "#6A5ACD",
+  
+  "lineSeparatorColor": "#000F26"
+}
