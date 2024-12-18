@@ -3,7 +3,7 @@
 
 #define MyAppName "DogeDEX-Desktop"
 #define MyAppVersion "0.5.0"
-#define MyAppPublisher "Komodo Platform"
+#define MyAppPublisher "Dexa.One"
 #define MyAppURL "https://github.com/KomodoPlatform/Dogedex-Desktop"
 #define MyAppExeName "DogeDEX.exe"
 #define MyUserName "smk"

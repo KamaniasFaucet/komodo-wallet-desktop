@@ -1,12 +1,12 @@
 /******************************************************************************
- * Copyright © 2013-2024 The Komodo Platform Developers.                      *
+ * Copyright © 2013-2024 The Dexa.One Developers.                      *
  *                                                                            *
  * See the AUTHORS, DEVELOPER-AGREEMENT and LICENSE files at                  *
  * the top-level directory of this distribution for the individual copyright  *
  * holder information and the developer policies on copyright and licensing.  *
  *                                                                            *
  * Unless otherwise agreed in a custom licensing agreement, no part of the    *
- * Komodo Platform software, including this file may be copied, modified,     *
+ * Dexa.One software, including this file may be copied, modified,     *
  * propagated or distributed except according to the terms contained in the   *
  * LICENSE file                                                               *
  *                                                                            *
@@ -165,9 +165,9 @@ namespace atomic_dex
 
         auto path = QString{":/assets/languages/atomic_defi_" + new_lang};
 
-        SPDLOG_INFO("Locale before parsing Komodo Wallet settings: {}", QLocale().name().toStdString());
+        SPDLOG_INFO("Locale before parsing Dexa.One Wallet settings: {}", QLocale().name().toStdString());
         QLocale::setDefault(get_locale(new_lang.toStdString()));
-        SPDLOG_INFO("Locale after parsing Komodo Wallet settings: {}", QLocale().name().toStdString());
+        SPDLOG_INFO("Locale after parsing Dexa.One Wallet settings: {}", QLocale().name().toStdString());
         if (!this->m_translator.load(path))
         {
             SPDLOG_ERROR("Failed to load {} translation in {}.qm", new_lang.toStdString(), path.toStdString());

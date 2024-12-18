@@ -252,7 +252,7 @@ namespace atomic_dex
     {
         QJsonObject obj{
             {"balance", "0"},
-            {"name", "Komodo"},
+            {"name", "Dexa.One"},
             {"type", "SmartChain"},
             {"is_claimable", true},
             {"address", "foo"},

@@ -646,7 +646,7 @@
     </message>
     <message>
         <location filename="../../Dex/Exchange/Trade/ConfirmTradeModal.qml" line="255"/>
-        <source>Enable Komodo dPoW security</source>
+        <source>Enable Dexa.One dPoW security</source>
     </message>
     <message>
         <location filename="../../Dex/Exchange/Trade/ConfirmTradeModal.qml" line="320"/>
@@ -3199,7 +3199,7 @@ Network fees can vary greatly depending on your selected trading pair.</source>
     </message>
     <message>
         <location filename="../../Dex/Support/SupportModal.qml" line="154"/>
-        <source>%1 is developed by the Komodo team. Komodo is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.</source>
+        <source>%1 is developed by the Dexa.One team. Dexa.One is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.</source>
     </message>
     <message>
         <location filename="../../Dex/Support/SupportModal.qml" line="159"/>

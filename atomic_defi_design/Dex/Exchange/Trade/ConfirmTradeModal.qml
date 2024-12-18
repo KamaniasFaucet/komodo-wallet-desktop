@@ -279,7 +279,7 @@ MultipageModal
                         mouseArea.hoverEnabled: true
                         labelWidth: 200
                         label.wrapMode: Label.NoWrap
-                        label.text: qsTr("Enable Komodo dPoW security")
+                        label.text: qsTr("Enable Dexa.One dPoW security")
                         label2.text: General.cex_icon + ' <a href="https://komodoplatform.com/security-delayed-proof-of-work-dpow/">' + qsTr('Read more about dPoW') + '</a>'
                     }
 

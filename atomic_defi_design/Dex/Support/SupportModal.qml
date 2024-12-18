@@ -113,7 +113,7 @@ Qaterial.Dialog
                 FAQLine
                 {
                     title: qsTr("Where can I see the orderbook or market statistics online?")
-                    text: qsTr('You can view an online orderbook and market statistics at <a href="https://markets.atomicdex.io/">https://markets.atomicdex.io/</a>, or use the Komodo Wallet in your browser at <a href="https://app.komodoplatform.com">https://app.komodoplatform.com</a>!')
+                    text: qsTr('You can view an online orderbook and market statistics at <a href="https://markets.atomicdex.io/">https://markets.atomicdex.io/</a>, or use the Dexa.One Wallet in your browser at <a href="https://app.komodoplatform.com">https://app.komodoplatform.com</a>!')
                 }
 
                 FAQLine
@@ -170,7 +170,7 @@ There is a toggle in settings where you can turn on/off the display of these tra
                 FAQLine
                 {
                     title: qsTr("Who is behind %1?").arg(API.app_name)
-                    text: qsTr("%1 is developed by the Komodo team. Komodo is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.").arg(API.app_name)
+                    text: qsTr("%1 is developed by the Dexa.One team. Dexa.One is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.").arg(API.app_name)
                 }
 
                 FAQLine

@@ -3,7 +3,7 @@
 
 #define MyAppName "GleecDEX-Desktop"
 #define MyAppVersion "0.5.0"
-#define MyAppPublisher "Komodo Platform"
+#define MyAppPublisher "Dexa.One"
 #define MyAppURL "https://github.com/KomodoPlatform/komodo-wallet-desktop"
 #define MyAppExeName "GleecDEX.exe"
 #define MyUserName "smk"

@@ -3,7 +3,7 @@
 
 #define MyAppName "SmartDEX-Desktop"
 #define MyAppVersion "0.5.0"
-#define MyAppPublisher "Komodo Platform"
+#define MyAppPublisher "Dexa.One"
 #define MyAppURL "https://help.smartfi.com/hc/en-us"
 #define MyAppExeName "smartdex-desktop.exe"
 #define MyUserName "smk"

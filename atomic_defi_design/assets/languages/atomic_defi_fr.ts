@@ -791,8 +791,8 @@
     </message>
     <message>
         <location filename="../../Dex/Exchange/Trade/ConfirmTradeModal.qml" line="282"/>
-        <source>Enable Komodo dPoW security</source>
-        <translation>Activer la sécurité de Komodo dPoW</translation>
+        <source>Enable Dexa.One dPoW security</source>
+        <translation>Activer la sécurité de Dexa.One dPoW</translation>
     </message>
     <message>
         <location filename="../../Dex/Exchange/Trade/ConfirmTradeModal.qml" line="312"/>
@@ -4031,7 +4031,7 @@ Please select a new order.</source>
     </message>
     <message>
         <location filename="../../Dex/Support/SupportModal.qml" line="116"/>
-        <source>You can view an online orderbook and market statistics at &lt;a href=&quot;https://markets.atomicdex.io/&quot;&gt;https://markets.atomicdex.io/&lt;/a&gt;, or use the Komodo Wallet in your browser at &lt;a href=&quot;https://app.komodoplatform.com&quot;&gt;https://app.komodoplatform.com&lt;/a&gt;!</source>
+        <source>You can view an online orderbook and market statistics at &lt;a href=&quot;https://markets.atomicdex.io/&quot;&gt;https://markets.atomicdex.io/&lt;/a&gt;, or use the Dexa.One Wallet in your browser at &lt;a href=&quot;https://app.komodoplatform.com&quot;&gt;https://app.komodoplatform.com&lt;/a&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4096,8 +4096,8 @@ There is a toggle in settings where you can turn on/off the display of these tra
     </message>
     <message>
         <location filename="../../Dex/Support/SupportModal.qml" line="173"/>
-        <source>%1 is developed by the Komodo team. Komodo is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.</source>
-        <translation type="unfinished">%1 est développé par l&apos;équipe de Komodo. Komodo est l&apos;un des projets de blockchain les plus établis travaillant sur des solutions innovantes telles que les échanges atomiques, la preuve de travail différée et une architecture multichaîne interopérable.</translation>
+        <source>%1 is developed by the Dexa.One team. Dexa.One is one of the most established blockchain projects working on innovative solutions like atomic swaps, Delayed Proof of Work, and an interoperable multi-chain architecture.</source>
+        <translation type="unfinished">%1 est développé par l&apos;équipe de Dexa.One. Dexa.One est l&apos;un des projets de blockchain les plus établis travaillant sur des solutions innovantes telles que les échanges atomiques, la preuve de travail différée et une architecture multichaîne interopérable.</translation>
     </message>
     <message>
         <location filename="../../Dex/Support/SupportModal.qml" line="178"/>
